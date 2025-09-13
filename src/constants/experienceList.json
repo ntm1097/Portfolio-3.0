@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Skinstric",
+    "role": "Software Engineer",
+    "resps": [
+      "Architected real-time skin analysis platform using OpenAI Vision API and Next.js, achieving 98% detection accuracy across diverse skin conditions",
+      "Developed responsive UI with TailwindCSS and GSAP animations, implementing dynamic skincare recommendation cards with 60% improved engagement",
+      "Built custom animation system using GSAP timeline for seamless user experience during skin analysis processing, increasing user retention by 40%"
+    ],
+    "date": "May 2025 - Sept 2025"
+  },
+  {
+    "company": "Frontend Simplified",
+    "role": "Software Engineer",
+    "resps": [
+      "Built and shared reusable component library using ShadCN/UI, reducing development time for student projects by 40% and improving code consistency",
+      "Transformed UI/UX wireframes into responsive HTML and CSS (Sass/BEM)",
+      "Developed comprehensive learning resources for React component architecture and TypeScript, resulting in 70% of mentored students successfully implementing type-safe applications."
+    ],
+    "date": "Jan 2025 - May 2025"
+  }
+]
