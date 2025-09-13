@@ -75,7 +75,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/nate-miller-36664136b/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="/public/Nate Miller 2025 docx.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="/Nate-Miller-2025.pdf" target="_blank" rel="noopener noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>

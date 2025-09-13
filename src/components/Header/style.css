@@ -233,7 +233,6 @@ header .header--bottom p {
 
   .header--video video {
     height: 70vw;
-    margin-bottom: 50vw;
   }
 
   .connect--button {
@@ -242,4 +241,11 @@ header .header--bottom p {
     justify-content: center;
     align-items: center;
   }
+}
+
+@media (max-width: 520px) {
+.header--video video {
+height: 80vh;
+width: 70vw;
+}
 }
